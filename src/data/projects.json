@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Shivashlok HN",
+    "imageSrc": "projects/shiva.jpg",
+    "description": "I am a Third-year student at VIT-AP, pursuing a Bachelor's degree in Computer Science with a specialization in Artificial Intelligence and Machine Learning.",
+    "skills": ["React", "Js", "java","python","MongoDb"],
+    "demo": "https://www.linkedin.com/in/shiva-shlok-hn-4846b3327/",
+    "source": "https://github.com/Shivapython"
+  },
+  {
+    "title": "Ronit Das",
+    "imageSrc": "projects/ronit.jpeg",
+    "description": "I am a B.Tech 3rd-year student passionate about Artificial Intelligence. I have developed a Generative AI project, harnessing deep learning to create intelligent,human-like outputs. This project honed my skills in model training,deployment and AI frameworks.",
+    "skills": ["Java", "python", "js","MySql","TensorFlow"],
+    "demo": "https://www.linkedin.com/in/ronit-das-870712267/",
+    "source": "https://github.com/phantom-1212"
+  }
+]
