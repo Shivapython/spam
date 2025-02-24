@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Shivashlok HN",
+    "imageSrc": "projects/shiva.jpg",
+    "description": "I am a Third-year student at VIT-AP, pursuing a Bachelor's degree in Computer Science with a specialization in Artificial Intelligence and Machine Learning.",
+    "skills": ["React", "Js", "java","python","MongoDb"],
+    "demo": "https://www.linkedin.com/in/shiva-shlok-hn-4846b3327/",
+    "source": "https://github.com/Shivapython"
+  },
+  {
+    "title": "Ronit Das",
+    "imageSrc": "projects/ronit.jpeg",
+    "description": "I am a Third-year student at VIT-AP, pursuing a Bachelor's degree in Computer Science with a specialization in Artificial Intelligence and Machine Learning.",
+    "skills": ["Ui/Ux", "Java", "python", "js","Sql"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
